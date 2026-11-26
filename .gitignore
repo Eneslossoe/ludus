@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# GitHub 100 MB sinirini asan tam kalite video
+output/gladyator_okulu_olsaydin.mp4
+output/*.tmp*
